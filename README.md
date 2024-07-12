@@ -4,9 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 npx create-next-app@latest
 
-<!-- https://next-qrcode.js.org/ -->
-<!-- npm install next-qrcode --save -->
-<!-- used in https://r2r-audience-prompting-v1.vercel.app/showQRCode -->
+https://next-qrcode.js.org/
+npm install next-qrcode --save
+used in https://r2r-audience-prompting-v1.vercel.app/showQRCode
 
 First, run the development server:
 
