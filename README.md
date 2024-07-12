@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+npx create-next-app@latest
+
+<!-- https://next-qrcode.js.org/ -->
+<!-- npm install next-qrcode --save -->
+
 First, run the development server:
 
 ```bash
