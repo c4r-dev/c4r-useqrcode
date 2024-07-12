@@ -6,6 +6,7 @@ npx create-next-app@latest
 
 <!-- https://next-qrcode.js.org/ -->
 <!-- npm install next-qrcode --save -->
+<!-- used in https://r2r-audience-prompting-v1.vercel.app/showQRCode -->
 
 First, run the development server:
 
